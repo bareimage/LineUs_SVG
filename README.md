@@ -8,7 +8,7 @@ You can simply open the code in [Processing 4.3](https://processing.org/download
 
 
 _Application interface / keys / shortcuts:_
-* drawbot address: a (usually lineus.local in wifi and 192.168.4.1 in setup mode)
+* drawbot address: a (usually line-us.local in wifi and 192.168.4.1 in setup mode)
 * open SVG: o
 * zoom: +/-
 * move: arrow keys <>
